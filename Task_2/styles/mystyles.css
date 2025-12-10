@@ -1,11 +1,10 @@
 h1{
-    text-align-last: center;
+    text-align: center;
 }
 .navbar a{
     background-color: lightcoral;
     color: black;
     text-decoration: none;
-    
     text-align: center;
 }
 .navbar a:hover
